@@ -1,0 +1,3 @@
+app.json merge=ours
+config.js merge=ours
+project.config.json merge=ours
