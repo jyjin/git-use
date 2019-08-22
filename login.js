@@ -1,5 +1,8 @@
 const login = (name, pwd) => {
-  if (pwd == 'jyjin') {
-    return true
+  if(pwd){
+    if (pwd == 'jyjin') {
+      return true
+    }
   }
+  return false
 }
